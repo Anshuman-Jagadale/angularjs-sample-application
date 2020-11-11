@@ -1,12 +1,8 @@
-# angularjs-sample-application
-If you're running node.js http-server is super easy.
+AngularJS Tutorial 1
+====================
 
-Install
+author: [Charney Kaye](https://charneykaye.com)
 
-npm install -g http-server
+**NOTE:  We’re referencing all of our vendor dependencies (e.g. Bootstrap, jQuery, Angular) at outside URLs.   Therefore, it is necessary to host our site while we’re working on it.  Be sure we are viewing it in a browser with http:// -- not file://**
 
-After installation cd into your project folder and run
-
-http-server -o
-
--o is to open browser to the page. Run http-server --help to view other options such as changing the port number
+View the [live demo](http://airpair.github.io/demos/2014/09/T0021-airpair-angularjs-tutorial).
